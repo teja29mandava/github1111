@@ -1,0 +1,12 @@
+Git Restore - willwork staged and unstaged area
+Git Revert -will work commit id's
+git reset - 3 ares
+Reset --hard  - it will delete 3 areas WD, SA, LR
+Reset --soft - it will delete only SA , it will be there 2 ares WD, LR
+Reset --mixed - it will be delete only LR, It will be same WD, SA
+
+git Stash:
+++++++++++++++++++
+git pop & Apply:
+pop - will delete in local repo and moved to working directory
+apply- will apply the changes for both local repo & working directory
